@@ -1,0 +1,11 @@
+# edittor files
+.vscode/
+
+# luvit files
+deps/
+
+# bot files
+logs/
+gateway.json
+options.lua
+.token
